@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1_das
 <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample2.xml
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1_dash.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
