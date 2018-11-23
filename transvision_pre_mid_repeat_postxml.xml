@@ -3,7 +3,7 @@
 <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample1.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1.mp4
 <vmap:AdSource id="midroll-1-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_2.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample2.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_2.mp4
 <vmap:AdSource id="midroll-2-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_3.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample3.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_3.mp4
 <vmap:AdSource id="midroll-3-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_4.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample4.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_4.mp4
 <vmap:AdSource id="midroll-4-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample1.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1.mp4
 <vmap:AdSource id="midroll-5-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_2.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample2.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_2.mp4
 <vmap:AdSource id="midroll-6-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_3.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample3.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_3.mp4
 <vmap:AdSource id="midroll-7-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_4.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample4.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -86,7 +86,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_4.mp4
 <vmap:AdSource id="midroll-7-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample1.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_1.mp4
 <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_test_2.mp4
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/sample2.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
