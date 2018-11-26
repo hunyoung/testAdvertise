@@ -107,20 +107,20 @@ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsvxNkr-OsDyeBn4ni_u-L8PWF8-y
 <MediaFiles>
 <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="398" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-http://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_dash.mpd
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_dash.mpd
 ]]>
 </MediaFile>
 
 
 <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="115" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-http://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_dash.mpd
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_dash.mpd
 ]]>
 </MediaFile>
 
 <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="232" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-http://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_dash.mpd
+https://raw.githubusercontent.com/hunyoung/testAdvertise/master/video_dash.mpd
 ]]>
 </MediaFile>
 </MediaFiles>
