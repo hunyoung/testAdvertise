@@ -9,9 +9,9 @@
   <AdaptationSet segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="30" par="16:9" lang="und" startWithSAP="1">
    <Representation id="1" mimeType="video/mp4" codecs="avc1.64001F" width="1280" height="720" frameRate="30" sar="1:1" bandwidth="549439">
     <SegmentList timescale="15360" duration="30720">
-     <Initialization sourceURL="segment_init.mp4"/>
-     <SegmentURL media="segment_1.m4s"/>
-     <SegmentURL media="segment_2.m4s"/>
+     <Initialization sourceURL="https://raw.githubusercontent.com/hunyoung/testAdvertise/master/segment_init.mp4"/>
+     <SegmentURL media="https://raw.githubusercontent.com/hunyoung/testAdvertise/master/segment_1.m4s"/>
+     <SegmentURL media="https://raw.githubusercontent.com/hunyoung/testAdvertise/master/segment_2.m4s"/>
     </SegmentList>
    </Representation>
   </AdaptationSet>
