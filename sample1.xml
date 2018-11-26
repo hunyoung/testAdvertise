@@ -107,20 +107,20 @@ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsvxNkr-OsDyeBn4ni_u-L8PWF8-y
 <MediaFiles>
 <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="398" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
+http://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
 ]]>
 </MediaFile>
 
 
 <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="115" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
+http://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
 ]]>
 </MediaFile>
 
 <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="232" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
+http://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
 ]]>
 </MediaFile>
 </MediaFiles>
