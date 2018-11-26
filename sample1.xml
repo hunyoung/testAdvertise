@@ -18,7 +18,7 @@ https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssi3bSiGmrBjqGe5PYNeVel
 </Impression>
 <Creatives>
 <Creative id="57861016576" sequence="1">
-<Linear>
+<Linear skipoffset="00:00:05">
 <Duration>00:00:16</Duration>
 <TrackingEvents>
 <Tracking event="start">
